@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.env
+.env.*
+*.log
+.matplotlib/
+data/demo_load.csv
+data/uci_raw/
+data/uci_hourly_selected.csv
+data/uci_hourly_selected.metadata.json
+outputs/*
+!outputs/.gitkeep
